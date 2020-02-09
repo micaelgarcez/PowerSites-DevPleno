@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{RXBc:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),c=t.n(a);t("gqNJ");n.default=function(){return c.a.createElement("div",null,c.a.createElement("h1",{className:"text-bold"},"olá lima móveis"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-d32b621c80bd615fccf7.js.map
